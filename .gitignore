@@ -1,0 +1,7 @@
+*
+!.gitignore
+!minecraft.jar
+!minecraft.sh
+!minecraft.desktop
+!minecraft.svg
+!minecraft.xpm

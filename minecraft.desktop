@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Icon=minecraft
+Name=Minecraft
+Exec=sh -c "\$HOME/.minecraft/minecraft.sh"
+Name=Minecraft
