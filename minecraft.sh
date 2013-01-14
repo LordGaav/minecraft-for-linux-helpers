@@ -1,2 +1,2 @@
 #!/bin/sh
-(cd /home/chaos/.minecraft && /usr/bin/java -jar minecraft.jar)
+(cd $HOME/.minecraft && /usr/bin/java -jar minecraft.jar)
